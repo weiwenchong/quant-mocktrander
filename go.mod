@@ -1,4 +1,4 @@
-module github.com/weiwenchong/quant-order
+module github.com/weiwenchong/quant-mocktrander
 
 go 1.15
 
