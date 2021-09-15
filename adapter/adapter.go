@@ -24,7 +24,7 @@ func InitClient() {
 			if err != nil {
 				log.Printf("InitClient quant-order err:%v", err)
 			}
-			Client = pub.NewOrderClient(Conn)
+			Client = pub.NewMocktraderServiceClient(Conn)
 		}
 	})
 	log.Printf("initClient end")
