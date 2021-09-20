@@ -1,1 +1,1 @@
-# quant-mocktrander
+# 量化交易模拟交易服务,进行模拟交易,这里只是go的pub包.
